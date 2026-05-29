@@ -35,10 +35,9 @@ A telecom company is experiencing high customer churn. The business needs to und
 | **No online security / tech support** | Churn rate 2x higher among customers without these services | Bundle these services for free in the first 3 months |
 | **Electronic check payment** | Churn rate ~50% – highest among all methods | Promote auto‑pay / credit card with a 2% monthly discount |
 
-*(Add 2–3 of your own charts in the `/images` folder and embed them here)*
+https://github.com/minalsood24/teleco-churn-analysis/tree/main/Screenshots 
+refer here for the images of the project
 
-Example chart: 
-![Churn by Contract Type](images/churn_by_contract.png)
 
 ## 💡 Recommendations for the Telecom Company
 - **Retention campaign** targeting month‑to‑month customers (e.g., upgrade discount, loyalty bonus).
