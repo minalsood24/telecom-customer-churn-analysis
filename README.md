@@ -66,8 +66,7 @@ Create an interactive dashboard using Tableau or Power BI.
 Segment customers using clustering (K‑means) for hyper‑targeted retention offers.
 
 👩‍💻 About the Author
-Minal Sood – MSc IT student (Data Analytics curriculum, 2nd semester). Passionate about turning data into business decisions.
-Prabhleen Kaur - MSc IT student (Data Analytics curriculum, 2nd semester). Passionate about turning data into business decisions.
+Minal Sood – MSc IT student. Passionate about turning data into business decisions.Passionate about turning data into business decisions.
 📫 LinkedIn (www.linkedin.com/in/minal-sood24)
 🐙 GitHub
 
